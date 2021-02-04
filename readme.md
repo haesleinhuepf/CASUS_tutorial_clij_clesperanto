@@ -24,7 +24,7 @@
 
 </td></tr><tr><td>
 
-<img src="https://github.com/haesleinhuepf/CASUS_tutorial_clij_clesperanto/raw/master/images/mean3D_comparison.png" width="300"/>
+<img src="https://github.com/haesleinhuepf/CASUS_tutorial_clij_clesperanto/raw/master/images/count_blobs.png" width="300"/>
 
 </td><td>
 
