@@ -7,6 +7,7 @@
 * Data for download
   * [Tribolium embryo gastrulation in 3D (by Daniela Vorkel, Myers lab, MPI CBG)](https://zenodo.org/record/4276076#.YBvivOhKiPo)
   * [Drosophila embryo mitotic waves projected in 2D](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020/-/blob/master/07_Trackmate/example_data/tracking/CalibZAPWfixed_000154_max.tif)
+  * [Artificial tissue](https://github.com/haesleinhuepf/CASUS_tutorial_clij_clesperanto/raw/master/tissue.tif)
 
 <table border="0">
 <tr><td>
